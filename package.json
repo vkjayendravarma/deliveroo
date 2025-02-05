@@ -1,0 +1,14 @@
+{
+  "name": "cron-parser",
+  "version": "1.0.0",
+  "description": "This is a cli application to infer cron expression",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
